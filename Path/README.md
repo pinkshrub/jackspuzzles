@@ -1,0 +1,1 @@
+Trace a path through the grid, starting at the upper-left corner and going to the lower-right, only ever moving right or down, so that the sum of all number square crossed is maximized. The total sum of the path is 617.
